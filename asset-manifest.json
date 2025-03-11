@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Webpage/static/css/main.48a2b568.css",
+    "main.js": "/Webpage/static/js/main.7d8f2f75.js",
+    "static/js/453.4085dde7.chunk.js": "/Webpage/static/js/453.4085dde7.chunk.js",
+    "static/media/styleStadium.png": "/Webpage/static/media/styleStadium.266400c3989dd32b9784.png",
+    "index.html": "/Webpage/index.html",
+    "main.48a2b568.css.map": "/Webpage/static/css/main.48a2b568.css.map",
+    "main.7d8f2f75.js.map": "/Webpage/static/js/main.7d8f2f75.js.map",
+    "453.4085dde7.chunk.js.map": "/Webpage/static/js/453.4085dde7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48a2b568.css",
+    "static/js/main.7d8f2f75.js"
+  ]
+}
